@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-service-management-nextjs",
+  "capabilityKey": "planned:sap:service-management",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-sap-service-management-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/sap/nextjs/service-management.md",
+  "presentationPlan": "projects/sap/nextjs/service-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
